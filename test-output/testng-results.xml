@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T17:36:38 IST" name="Default suite" finished-at="2023-07-21T17:37:07 IST" duration-ms="28860">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T17:36:38 IST" name="Default test" finished-at="2023-07-21T17:37:07 IST" duration-ms="28860">
+      <class name="com.WebTests.D02EchotrakLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:36:39 IST" name="beforeTest" finished-at="2023-07-21T17:36:57 IST" duration-ms="18937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:36:58 IST" name="beforeMethod" finished-at="2023-07-21T17:36:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:36:58 IST" name="f" data-provider="dp" finished-at="2023-07-21T17:37:00 IST" duration-ms="2350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[purvi panse]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pur@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:00 IST" name="afterMethod" finished-at="2023-07-21T17:37:00 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:00 IST" name="beforeMethod" finished-at="2023-07-21T17:37:00 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:00 IST" name="f" data-provider="dp" finished-at="2023-07-21T17:37:02 IST" duration-ms="2018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[minakshi vyavahare]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mna@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:02 IST" name="afterMethod" finished-at="2023-07-21T17:37:03 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:03 IST" name="beforeMethod" finished-at="2023-07-21T17:37:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:03 IST" name="f" data-provider="dp" finished-at="2023-07-21T17:37:04 IST" duration-ms="1564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lalita Joshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[la@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:04 IST" name="afterMethod" finished-at="2023-07-21T17:37:04 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.String,java.lang.String)[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:04 IST" name="f" data-provider="dp" finished-at="2023-07-21T17:37:06 IST" duration-ms="1788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Swati Neema]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Swa@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:04 IST" name="beforeMethod" finished-at="2023-07-21T17:37:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:06 IST" name="afterMethod" finished-at="2023-07-21T17:37:06 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.WebTests.D02EchotrakLogin@1a245833]" started-at="2023-07-21T17:37:06 IST" name="afterTest" finished-at="2023-07-21T17:37:07 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.WebTests.D02EchotrakLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

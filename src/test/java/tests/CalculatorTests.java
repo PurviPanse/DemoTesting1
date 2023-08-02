@@ -15,5 +15,10 @@ class CalculatorTests {
 		int act = cal.add(10, 20);
 		assertEquals(exp, act);
 	}
+	
+	@Test
+	public void testing() {
+		System.out.println("temperority added it");
+	}
 
 }

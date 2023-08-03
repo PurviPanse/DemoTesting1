@@ -20,5 +20,10 @@ class CalculatorTests {
 	public void testing() {
 		System.out.println("temperority added it");
 	}
+	
+	@Test
+	public void testnewA() {
+		//code
+	}
 
 }

@@ -16,13 +16,16 @@ class CalculatorTests {
 		assertEquals(exp, act);
 		
 	}
-		
-		
-		
-		
-		
+	@Test
+	public void testing() {
+		System.out.println("temperority added it");
+	}
+	
 	@Test
 	public void testnewB() {
-			System.out.println("new code by B ");
-		}
+		//code by B
+	}
+
+	
+	
 }

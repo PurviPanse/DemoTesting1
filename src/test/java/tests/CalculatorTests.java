@@ -30,5 +30,9 @@ class CalculatorTests {
 	public void testnewA() {
 		//code by A
 	}
+	@Test
+	public void testnewNextA() {
+		//code by A
+	}
 	
 }
